@@ -1,0 +1,29 @@
+
+.resultEntityPlaceholder{
+color:black;
+
+}
+
+.title{
+  color: black;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.news-container{
+  max-height: 150px;
+  max-width: 150px;
+  margin-top: 18px;
+}
+
+.img-conatiner{
+  img{
+    max-width: 100px;
+    max-height: 100px;
+  }
+}
+
+.description{
+  max-height: 50px;
+  overflow: hidden;
+}
